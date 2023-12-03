@@ -1,13 +1,13 @@
 <h1>Hey! Nice to see you.</h1>
 
 
-<p>
+<h2>
   👋 Welcome to my page!
  </br>
-<p>
-  
+<h2>
+  <h3>
 I'm Abdalla, a passionate frontend developer hailing from the vibrant city of Giza, Egypt. 🌍 By profession, I wield the power of code to craft engaging and seamless user experiences. Beyond the screen, I embrace the roles of a devoted brother and an unabashed coffee enthusiast. ☕️✨
-</p>
+</h3>
 
 <h3>Things I code with</h3>
 <p>
