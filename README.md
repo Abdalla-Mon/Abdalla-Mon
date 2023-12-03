@@ -25,5 +25,7 @@
 
 <h3 style="border-top:1px solid #eee">Contact Me</h3>
 <a href="https://www.linkedin.com/in/abdalla-abdelsabor-ba6983235/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://www.facebook.com/abdalla.abdalsabor/" alt="Facebook"/></a>
+<a href="https://www.facebook.com/abdalla.abdalsabor/" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook"/>
+</a>
 </p>
