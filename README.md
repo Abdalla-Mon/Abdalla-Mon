@@ -1,6 +1,6 @@
-<h1> 👋 Welcome to my page!</h1>
+<h1> 👋 Welcome to my page!
 <h4>I'm Abdalla, a passionate frontend developer hailing from the vibrant city of Giza, Egypt. 🌍 By profession, I wield the power of code to craft engaging and seamless user experiences. Beyond the screen, I embrace the roles of a devoted brother and an unabashed coffee enthusiast. ☕️✨</h4>
-
+</h1>
 <h3>Things I code with</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
