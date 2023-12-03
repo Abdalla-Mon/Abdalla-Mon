@@ -29,3 +29,10 @@
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook"/>
 </a>
 </p>
+
+<h3>My Projects: </h3>
+<ul>
+  <li>
+    <a src="https://abdalla-webportfolio.vercel.app/" alt="Abdalla Portfolio">Portfolio</a>
+  </li>
+</ul>
