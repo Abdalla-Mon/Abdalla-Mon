@@ -23,7 +23,7 @@
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="bitBucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 
-
-
-
+<h3 style="border-top:1px solid #eee">Contact Me</h3>
+<a href="https://www.linkedin.com/in/abdalla-abdelsabor-ba6983235/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.facebook.com/abdalla.abdalsabor/" alt="Facebook"/></a>
 </p>
