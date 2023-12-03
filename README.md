@@ -33,6 +33,15 @@
 <h3>My Projects: </h3>
 <ul>
   <li>
-    <a src="https://abdalla-webportfolio.vercel.app/" alt="Abdalla Portfolio">Portfolio</a>
+    <a href="https://abdalla-webportfolio.vercel.app/" alt="Abdalla Portfolio">Portfolio</a>
+  </li>
+    <li>
+    <a href="https://e-trade.vercel.app/" alt="E trade">E trade</a>
+  </li>
+    <li>
+    <a href="https://sandbox-abdalla-mon.vercel.app/" alt="Sandbox">Sandbox</a>
+  </li>
+    <li>
+    <a href="https://abdalla-market.vercel.app/" alt="Sandbox">Abdalla Market</a>
   </li>
 </ul>
